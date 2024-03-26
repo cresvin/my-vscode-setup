@@ -1,0 +1,46 @@
+{
+  "symbols.hidesExplorerArrows": false,
+  "workbench.productIconTheme": "icons-carbon",
+  "editor.lineHeight": 34,
+  "editor.cursorSmoothCaretAnimation": "on",
+  "editor.cursorBlinking": "solid",
+  "workbench.sideBar.location": "right",
+  "workbench.editor.labelFormat": "short",
+  "explorer.compactFolders": false,
+  "editor.fontSize": 16,
+  "window.zoomLevel": 0.5,
+  "breadcrumbs.enabled": false,
+  "window.commandCenter": false,
+  "window.title": "${activeEditorShort}",
+  "window.menuBarVisibility": "toggle",
+  "editor.fontFamily": "JetBrains Mono",
+  "editor.minimap.enabled": false,
+  "editor.tabSize": 2,
+  "search.exclude": {
+    "**/node_modules": true,
+    "**/bower_components": true,
+    "**/*.code-search": true
+  },
+  "search.quickOpen.includeHistory": false,
+  "editor.formatOnSave": true,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "css.lint.unknownAtRules": "ignore",
+  "editor.linkedEditing": true,
+  "emmet.includeLanguages": {
+    "javascript": "javascriptreact"
+  },
+  "editor.stickyScroll.enabled": true,
+  "javascript.updateImportsOnFileMove.enabled": "always",
+  "git.enableSmartCommit": true,
+  "git.confirmSync": false,
+  "editor.codeActionsOnSave": {
+    "source.organizeImports": "always"
+  },
+  "workbench.iconTheme": "symbols",
+  "terminal.integrated.defaultProfile.windows": "PowerShell",
+  "git.autofetch": true,
+  "files.autoSave": "afterDelay",
+  "workbench.activityBar.location": "top",
+  "workbench.colorTheme": "poimandres",
+  "editor.fontLigatures": true
+}

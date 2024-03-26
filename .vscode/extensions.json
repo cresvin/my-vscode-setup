@@ -1,0 +1,20 @@
+{
+  "recommendations": [
+    "eamodio.gitlens",
+    "astro-build.astro-vscode",
+    "aaron-bond.better-comments",
+    "antfu.icons-carbon",
+    "adpyke.codesnap",
+    "EditorConfig.EditorConfig",
+    "usernamehw.errorlens",
+    "dsznajder.es7-react-js-snippets",
+    "dbaeumer.vscode-eslint",
+    "toba.vsfire",
+    "talhabalaj.actual-font-changer",
+    "ritwickdey.LiveServer",
+    "esbenp.prettier-vscode",
+    "WallabyJs.quokka-vscode",
+    "miguelsolorio.symbols",
+    "meganrogge.template-string-converter"
+  ]
+}
